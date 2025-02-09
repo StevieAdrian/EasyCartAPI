@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EasyCartAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee87c58c77d5787580075c86725c1d95d4645405")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d3117d426e5ac5cef170f5caf1fcf8e8d546e5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EasyCartAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EasyCartAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
